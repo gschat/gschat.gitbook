@@ -1,6 +1,6 @@
 {
-    "author": "gsrpc <https://github.com/gsrpc>",
-    "description": "This is the GSrpc offical document",
+    "author": "gsrpc <https://github.com/gschat>",
+    "description": "This is the gsChat offical document",
     "extension": null,
     "isbn": null,
 
@@ -15,11 +15,11 @@
             "weibo": null
         },
         "sidebar": {
-            "官方网站": "http://gsrpc.github.io"
+            "官方网站": "http://gschat.github.io"
         }
     },
 
     "plugins": ["include-codeblock","maxiang","mermaid"],
-    "title": "GSrpc开发指南",
+    "title": "gsChat开发指南",
     "variables": {}
 }
