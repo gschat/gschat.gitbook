@@ -1,0 +1,25 @@
+{
+    "author": "gsrpc <https://github.com/gsrpc>",
+    "description": "This is the GSrpc offical document",
+    "extension": null,
+    "isbn": null,
+
+    "gitbook": ">=2.0.0",
+
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "官方网站": "http://gsrpc.github.io"
+        }
+    },
+
+    "plugins": ["include-codeblock","maxiang","mermaid"],
+    "title": "GSrpc开发指南",
+    "variables": {}
+}
