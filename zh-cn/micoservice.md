@@ -63,6 +63,7 @@ contract MailHub{
 网关提供两类服务：
 
 1. Auth 认证代理
+
 ```csharp
 contract Auth{
     /*
